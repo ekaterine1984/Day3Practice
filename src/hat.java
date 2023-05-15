@@ -8,4 +8,6 @@ public class hat {
 
     //winter hat
 
+    //made a sale of hat
+
 }
