@@ -6,4 +6,6 @@ public class hat {
 
     //beach hat
 
+    //winter hat
+
 }
